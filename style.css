@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+ul,li,h1{
+   display: inline;
+}
+
+ul{
+    margin-left: 60%;
+
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.down{
+ padding: 25px;
+ text-align: center;
+ 
+}
+input{
+    padding: 15px;
+    width: 60%;
+    text-align: center
+   ;
+
+}
+.box{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+}
+.mid{
+    text-align: center;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.last{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.con{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
